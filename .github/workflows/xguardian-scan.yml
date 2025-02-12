@@ -21,7 +21,7 @@ jobs:
           api_password: ${{ secrets.API_PASSWORD }}
           api_token: ${{ secrets.API_TOKEN }}
           gh_token: ${{ secrets.GH_TOKEN }}
-          app_name: "actionsteste"
+          app_name: "testeisabela"
           scan_directory: "." # Analisando todo o código-fonte por padrão
           # scan_directory: 'dist' # Descomente e ajuste se quiser analisar apenas o código buildado
           team_id: "[46]"
