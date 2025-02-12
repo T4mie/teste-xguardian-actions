@@ -1,0 +1,39 @@
+{
+  "LocaleSwitcher": {
+    "label": "选择语言",
+    "locale": {
+      "en-us": "英语",
+      "pt-br": "葡萄牙语",
+      "zh-cn": "中文"
+    }
+  },
+  "WorkInProgress": {
+    "title": "🛠️ 施工中 🚧",
+    "email": "电子邮件"
+  },
+  "Test": {
+    "title": "测试",
+    "description": "这是一个测试页面。"
+  },
+  "SpotifyPlayer": {
+    "error": "加载 Spotify 播放器时出错。",
+    "no-track": "目前没有可播放的曲目。",
+    "listening-to": "正在听",
+    "album-cover": "专辑封面"
+  },
+  "WorldOfWarcraft": {
+    "title": "魔兽世界",
+    "subtitle": "我的角色、成就和我在魔兽世界中使用的插件",
+    "char-title": "角色"
+  },
+  "VSCode": {
+    "title": "Visual Studio Code",
+    "subtitle": "我在这个漂亮的编辑器中使用的扩展、主题和设置",
+    "table": {
+      "id": "ID",
+      "name": "名称",
+      "description": "描述",
+      "url": "URL"
+    }
+  }
+}

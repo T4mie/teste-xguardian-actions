@@ -1,0 +1,39 @@
+{
+  "LocaleSwitcher": {
+    "label": "Select Language",
+    "locale": {
+      "en-us": "English",
+      "pt-br": "Portuguese",
+      "zh-cn": "Chinese"
+    }
+  },
+  "WorkInProgress": {
+    "title": "🛠️ Work in Progress 🚧",
+    "email": "Email"
+  },
+  "Test": {
+    "title": "Test",
+    "description": "This is a test page."
+  },
+  "SpotifyPlayer": {
+    "error": "Error loading Spotify player.",
+    "no-track": "No track playing at the moment.",
+    "listening-to": "Listening to",
+    "album-cover": "Album Cover"
+  },
+  "WorldOfWarcraft": {
+    "title": "World of Warcraft",
+    "subtitle": "My characters, achievements, and addons I use in WoW",
+    "char-title": "Characters"
+  },
+  "VSCode": {
+    "title": "Visual Studio Code",
+    "subtitle": "Extensions, themes, and settings I use in this beautiful editor",
+    "table": {
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "url": "URL"
+    }
+  }
+}
