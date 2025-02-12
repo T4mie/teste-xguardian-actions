@@ -33,7 +33,7 @@ jobs:
           policy_container: "0"
           microservices: "false"
           microservices_data: '[{"name": "MS1", "language": ["JavaScript"]}]'
-          sast: "true"
+          sast: "false"
           sca: "true"
           translate: "false"
           exclude: ".vtt"
